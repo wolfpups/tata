@@ -1,2 +1,6 @@
 hello
+<<<<<<< HEAD
 test1
+=======
+junk
+>>>>>>> parent of 68afb02... Revert "junk"
